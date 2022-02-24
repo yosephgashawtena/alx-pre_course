@@ -1,2 +1,1 @@
-My first readme
-Coding in alx is so cool.
+My first readme coding in alx is so cool
